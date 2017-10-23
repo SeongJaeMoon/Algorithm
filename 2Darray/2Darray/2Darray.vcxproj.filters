@@ -18,11 +18,13 @@
     <ClCompile Include="2Dtest_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2Dtest_2.cpp">
+    <ClCompile Include="method.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2Dtest_3.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2Dheader.h">
       <Filter>소스 파일</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
